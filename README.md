@@ -107,11 +107,11 @@ python -m uvicorn app:app
 
 
 ### Language Selector
-img width="125" height="153" alt="image" src="https://github.com/user-attachments/assets/efc14724-0ad1-4f5c-95d6-ba521e4e0c3b" />
+<img width="125" height="153" alt="image" src="https://github.com/user-attachments/assets/efc14724-0ad1-4f5c-95d6-ba521e4e0c3b" />
 
 
 ### Start / Stop Controls
-img width="162" height="60" alt="image" src="https://github.com/user-attachments/assets/02e833c7-e336-4e48-bf95-bc196f2d0209" />
+<img width="162" height="60" alt="image" src="https://github.com/user-attachments/assets/02e833c7-e336-4e48-bf95-bc196f2d0209" />
 <img width="172" height="57" alt="image" src="https://github.com/user-attachments/assets/a02f7d34-3e17-4f02-86d9-7fec4fee4e2a" />
 
 
