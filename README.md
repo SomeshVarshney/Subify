@@ -99,7 +99,7 @@ python -m uvicorn app:app
 ## 📸 Screenshots
 
 ### English Captions
-![English](screenshots/english.jpeg)
+![English](E:\AI-Captions\Screenshots\english.jpeg)
 
 ### Hindi Captions
 ![Hindi](screenshots/hindi.jpeg)
