@@ -100,19 +100,19 @@ python -m uvicorn app:app
 
 
 * English Captions
-* <img width="622" height="150" alt="image" src="https://github.com/user-attachments/assets/afb24202-80a9-4ec6-94d8-2a7aca0590a9" />
+  <img width="622" height="150" alt="image" src="https://github.com/user-attachments/assets/afb24202-80a9-4ec6-94d8-2a7aca0590a9" />
 
 * Hindi Captions
-* <img width="620" height="142" alt="image" src="https://github.com/user-attachments/assets/21b4bd10-d6a5-41be-97db-96b9d788a3ff" />
+  <img width="620" height="142" alt="image" src="https://github.com/user-attachments/assets/21b4bd10-d6a5-41be-97db-96b9d788a3ff" />
 
 * Language Selector
-* <img width="125" height="153" alt="image" src="https://github.com/user-attachments/assets/320bde6e-81bc-4295-86c8-c3ee1fbfb7cb" />
+  <img width="125" height="153" alt="image" src="https://github.com/user-attachments/assets/320bde6e-81bc-4295-86c8-c3ee1fbfb7cb" />
 
 * Start button
-* <img width="162" height="60" alt="image" src="https://github.com/user-attachments/assets/41bb7717-7a99-4e1e-a733-d8d789c5846c" />
+  <img width="162" height="60" alt="image" src="https://github.com/user-attachments/assets/41bb7717-7a99-4e1e-a733-d8d789c5846c" />
 
 * Stop button
-* <img width="172" height="57" alt="image" src="https://github.com/user-attachments/assets/a8c8dec7-158e-406c-bd93-0733564f30be" />
+  <img width="172" height="57" alt="image" src="https://github.com/user-attachments/assets/a8c8dec7-158e-406c-bd93-0733564f30be" />
 
 
 ---
