@@ -1,0 +1,19 @@
+#ai-caption-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 999999;
+}
+
+#ai-caption-overlay {
+  position: fixed;
+  bottom: 120px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: black;
+  color: white;
+  padding: 15px;
+  font-size: 24px;
+  z-index: 2147483647;
+  border-radius: 10px;
+}
