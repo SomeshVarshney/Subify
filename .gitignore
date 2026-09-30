@@ -12,6 +12,7 @@ ffmpeg-8.1.1/
 
 # Environment files
 .env
+Screenshots.zip
 
 # VS Code
 .vscode/
